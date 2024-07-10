@@ -7,3 +7,8 @@ The Merchant Commission feature allows marketplace operators to automatically ca
 ```
 composer require spryker-feature/marketplace-merchant-commission
 ```
+
+## Optional modules
+- [MerchantCommissionExtension ^1.0.0](https://github.com/spryker/merchant-commission-extension) (Extension)
+- [MerchantCommissionGuiExtension ^1.0.0](https://github.com/spryker/merchant-commission-gui-extension) (Extension)
+- [SalesMerchantCommissionExtension ^1.0.0](https://github.com/spryker/sales-merchant-commission-extension) (Extension)
