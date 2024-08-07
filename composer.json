@@ -13,7 +13,8 @@
         "spryker/merchant-commission-gui": "^1.0.0",
         "spryker/merchant-sales-order-sales-merchant-commission": "^1.0.0",
         "spryker/sales-merchant-commission": "^1.0.0",
-        "spryker/sales-merchant-commission-merchant-portal-gui": "^1.0.0"
+        "spryker/sales-merchant-commission-merchant-portal-gui": "^1.0.0",
+        "spryker/sales-payment-merchant-sales-merchant-commission": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
