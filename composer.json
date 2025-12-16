@@ -7,18 +7,18 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/merchant-commission": "^1.1.0",
+        "spryker/merchant-commission": "^1.2.0",
         "spryker/merchant-commission-data-export": "^0.2.0",
         "spryker/merchant-commission-data-import": "^0.2.0",
         "spryker/merchant-commission-gui": "^2.0.0",
-        "spryker/merchant-sales-order-sales-merchant-commission": "^1.0.0",
-        "spryker/sales-merchant-commission": "^1.0.0",
-        "spryker/sales-merchant-commission-merchant-portal-gui": "^1.0.0",
+        "spryker/merchant-sales-order-sales-merchant-commission": "^1.1.0",
+        "spryker/sales-merchant-commission": "^1.2.0",
+        "spryker/sales-merchant-commission-merchant-portal-gui": "^1.1.0",
         "spryker/sales-payment-merchant-sales-merchant-commission": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
