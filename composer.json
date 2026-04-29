@@ -10,7 +10,7 @@
         "spryker/merchant-commission": "^1.2.0",
         "spryker/merchant-commission-data-export": "^0.2.0",
         "spryker/merchant-commission-data-import": "^0.2.0",
-        "spryker/merchant-commission-gui": "^2.0.0",
+        "spryker/merchant-commission-gui": "^2.1.0",
         "spryker/merchant-sales-order-sales-merchant-commission": "^1.1.0",
         "spryker/sales-merchant-commission": "^1.2.0",
         "spryker/sales-merchant-commission-merchant-portal-gui": "^1.1.0",
@@ -18,7 +18,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     }
 }
